@@ -1,0 +1,6 @@
+C:\Users\yura\Documents\SharpDevelop Projects\lira-txt\lira-txt\bin\Debug\lira-txt.exe.config
+C:\Users\yura\Documents\SharpDevelop Projects\lira-txt\lira-txt\bin\Debug\lira-txt.exe
+C:\Users\yura\Documents\SharpDevelop Projects\lira-txt\lira-txt\bin\Debug\lira-txt.pdb
+C:\Users\yura\Documents\SharpDevelop Projects\lira-txt\lira-txt\obj\Debug\lira-txt.csprojResolveAssemblyReference.cache
+C:\Users\yura\Documents\SharpDevelop Projects\lira-txt\lira-txt\obj\Debug\lira-txt.exe
+C:\Users\yura\Documents\SharpDevelop Projects\lira-txt\lira-txt\obj\Debug\lira-txt.pdb
